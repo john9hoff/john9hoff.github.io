@@ -7,16 +7,17 @@
 <BODY BGCOLOR="#f2f7ff">
 
 <div class="topnav" id="myTopnav">
-  <a href="index.htmlirstream">Home</a>
-  <a href="news.html">News</a>
-  <a href="contact.html">Contact</a>
-  <a href="about.html">About</a>
+  <a href="index.html">Home</a>
+  <a href="news">News</a>
+  <a href="contact">Contact</a>
+  <a href="about">About</a>
+  <a href="testlink">Test</a>
 </div>
 
 <div class="main">
 </div>
 
 <body>
-<p>what do you wanna ask us? email our mail@mail.com</p>
+<p>about us and the airstream...some people bought an airstream circa summer of 2016</p>
 </body>
 </html>
